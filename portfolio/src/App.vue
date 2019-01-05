@@ -3,15 +3,15 @@
     <div id="wrapper" class="flex flex-col h-screen">
       <div id="content" class="flex-1 container mx-auto py-4 text-center antialiased leading-normal">
         <h1 class="text-grey-darker">Hugo Torzuoli</h1>
-        <p class="py-2">Hey ! I am Hugo, a 23 years old developer from France 🇫🇷</p>
+        <p class="py-2">Hey ! I am Hugo, a 23 years old developer from France 🇫🇷 working with <a class="no-underline text-yellow-dark font-bold" href="https://www.versusmind.eu/" target="_blank">Versusmind 🐥</a></p>
         <img class="w-48 h-48 my-2" src="./assets/img/profile.png" alt="Profile Avatar">
         <p>
           I love modern web technologies and work with
-          <b class="text-grey-darkest">HTML/CSS</b>,
-          <b class="text-grey-darkest">JavaScript</b>,
-          <b class="text-grey-darkest">Angular</b> (from AngularJS to Angular 7),
-          <b class="text-grey-darkest">VueJS</b>,
-          <b class="text-grey-darkest">Node</b>.
+          <span class="text-grey-darkest font-bold">HTML/CSS</span>,
+          <span class="text-grey-darkest font-bold">JavaScript</span>,
+          <span class="text-grey-darkest font-bold">Angular</span> (from AngularJS to Angular 7),
+          <span class="text-grey-darkest font-bold">VueJS</span>,
+          <span class="text-grey-darkest font-bold">Node</span>.
         </p>
         <p class="py-2">
           In my free time I do some project on
