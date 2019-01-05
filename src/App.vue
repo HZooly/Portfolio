@@ -31,6 +31,7 @@
         {{$t("made-with")}} <a class="no-underline text-blue-dark" href="https://vuejs.org/" target="_blank">VueJS</a> {{$t("and")}}
         <a class="no-underline text-blue-dark" href="https://tailwindcss.com/" target="_blank">TailwindCSS</a> {{$t("deployed")}}
         <a class="no-underline text-blue-dark" href="https://surge.sh/" target="_blank">Surge</a>
+        <a class="float-right no-underline text-blue-dark pr-2" href="https://github.com/HZooly/Portfolio" target="_blank">Source</a>
       </footer>
     </div>
   </div>
