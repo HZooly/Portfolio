@@ -27,7 +27,8 @@
       </div>
       <footer class="w-full text-center py-1 border-t text-sm">
         This website has been made with <a class="no-underline text-blue-dark" href="https://vuejs.org/" target="_blank">VueJS</a> and
-        <a class="no-underline text-blue-dark" href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
+        <a class="no-underline text-blue-dark" href="https://tailwindcss.com/" target="_blank">TailwindCSS</a> and deployed with
+        <a class="no-underline text-blue-dark" href="https://surge.sh/" target="_blank">Surge</a>
       </footer>
     </div>
   </div>
