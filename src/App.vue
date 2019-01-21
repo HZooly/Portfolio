@@ -5,7 +5,7 @@
         <img v-if="$i18n.locale == 'en'" class="float-right w-10 h-10" src="./assets/img/en.svg" @click="switchLang()">
         <img v-if="$i18n.locale == 'fr'" class="float-right w-10 h-10" src="./assets/img/fr.svg" @click="switchLang()">
         <h1 class="text-grey-darker">Hugo Torzuoli</h1>
-        <p class="py-2">{{$t("who-am-i")}} <a class="no-underline text-yellow-dark font-bold" href="https://www.versusmind.eu/" target="_blank">Versusmind 🐥</a></p>
+        <p class="py-2">{{$t("who-am-i")}}</p>
         <img class="w-48 h-48 my-2" src="./assets/img/profile.png" alt="Profile Avatar">
         <p>
           {{$t("technologies")}}
